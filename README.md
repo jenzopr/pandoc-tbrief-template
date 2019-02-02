@@ -29,7 +29,7 @@ The following command compiles the markdown file into PDF using pandoc:
 pandoc --template tfbrief-template.tex -o example/letter.pdf example/letter.md
 ```
 
-See the provided [letter.md](example/letter.md) and the resulting [PDF document](example/letter.pdf) fpr an example.
+See the provided [letter.md](example/letter.md) and the resulting [PDF document](example/letter.pdf) for an example.
 
 ### Prerequisites
 
@@ -38,10 +38,10 @@ See the provided [letter.md](example/letter.md) and the resulting [PDF document]
 
 ### Contribution
 
-Please feel free to report any issues using the [issue tracker](https://github.com/jenzopr/pandoc-tbrief-template/issues) or submit [Pull requests](https://github.com/jenzopr/pandoc-tbrief-template/pulls). 
+Please feel free to report any issues using the [issue tracker](https://github.com/jenzopr/pandoc-tbrief-template/issues) or submit [Pull requests](https://github.com/jenzopr/pandoc-tbrief-template/pulls).
 
 ### License
 
 The `tfbrief.cls` class was written by [Thomas Fischer](mailto:fischer@unix-ag.uni-kl.de) and is licensed under the [Creative Commons Attribution-Share Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-The `tfbrief-template.tex` latex template is licensed under the MIT license. See [LICSENSE](LICENSE) for more information.
+The `tfbrief-template.tex` latex template is licensed under the GNU General Public License 3.0. See [LICENSE](LICENSE) for more information.
